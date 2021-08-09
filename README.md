@@ -14,3 +14,5 @@ Hogia Hemekonomi som körts på Windows (dvs tror inte det fungerar med en som k
 Möjligen kan Access eller MDAC25 behövas men det verkar inte så.
 
 Programmet sparar i ett eget XML-format som troligen är lätt att tolka om du vill föra över data till något annat. 
+
+OBS: Kommer troligen inte att uppdateras mer.
